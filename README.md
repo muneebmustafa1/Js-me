@@ -1,0 +1,2 @@
+# Js-me
+CODE REPO OF LEARNING JS
